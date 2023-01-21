@@ -1,4 +1,4 @@
-# Git_Couse
+# Git_Course
 For Ragnar
 
 
